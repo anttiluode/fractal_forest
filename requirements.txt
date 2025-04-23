@@ -1,0 +1,9 @@
+numpy
+matplotlib
+Pillow
+opencv-python
+torch
+diffusers
+transformers
+accelerate
+triton

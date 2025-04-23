@@ -1,4 +1,5 @@
-![Fractal Preview](https://github.com/anttiluode/fractal_forest/tree/main/fractal.png
+![Fractal Preview](https://raw.githubusercontent.com/anttiluode/fractal_forest/main/fractal.png)
+
 
 # Fractal Art Creator
 
